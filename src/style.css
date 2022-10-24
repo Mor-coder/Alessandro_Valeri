@@ -30,11 +30,15 @@ p {
   transition: 0.3s ease-in-out;
 }
 
-.img_sepphoris {
+.sepphoris {
   width: 97.5%;
   display: block;
   margin: 0 auto;
   padding: 1em 0;
+}
+
+.bio {
+  margin: 1rem;
 }
 
 footer {
